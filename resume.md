@@ -43,7 +43,7 @@ permalink: /resume/
 
 <br>
 
-<h2>Certfications</h2>
+<h2>Certificates</h2>
 {%- for certifications in site.categories.certifications -%}
 <ul>
     <li>
