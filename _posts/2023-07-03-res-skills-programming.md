@@ -6,6 +6,11 @@ title: Programming
 ---
 <ul>
     <li>Python</li>
+    <li>Flask</li>
+    <li>Django</li>
+    <li>SQL</li>
+    <li>BigQuery</li>
+    <li>Firebase</li>
     <li>Unity</li>
     <li>C</li>
     <li>C#</li>

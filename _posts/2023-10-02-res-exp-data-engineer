@@ -1,0 +1,15 @@
+---
+layout: post
+category: experience
+
+position: Data Engineering Intern
+company: Anino Inc.
+startdate: August 2023
+enddate: October 2023
+location: Makati City, Metro Manila (Remote)
+---
+<ul>
+<li>Manage and execute queries on Firebase database using BigQuery, processing over 100,000 data entries daily.</li>
+<li>Collaborate with cross-functional teams to enhance data pipeline efficiency, resulting in a 20% reduction in query processing time.</li>
+<li>Contribute to data quality assurance by implementing validation checks, leading to a 15% decrease in data error instances.</li>
+</ul>
